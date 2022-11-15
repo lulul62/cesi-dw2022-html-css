@@ -1,0 +1,25 @@
+body {
+    width: 100%; /* Taille */
+    height: 900px; /* Hauteur */
+    margin: 0px; /* Marge */
+    margin-left: 150px;
+    color: white; /* Couleur (texte / element) */
+    position: absolute; /* Position du bloc */
+    background: #3498DB; /* Fond (couleur / image) du bloc */
+    font-family: sans-serif; /* Polica ecriture */
+}
+
+.input-form {
+    border-radius: 4px;/* arrondis bordure */
+    border: 1px solid lightgray; /* style bordure */
+    width: 300px; /* taille */
+    height: 30px; /* hauteur */
+}
+
+section {
+    padding-bottom: 50px;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
